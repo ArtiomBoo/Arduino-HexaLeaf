@@ -13,5 +13,5 @@
 
 ![painting](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190504_172753.jpg)
 
-**Step 4:** put leds inside (I used 60led/meter strip)
+**Step 4:** put LEDs inside (I used 60led/meter strip)
 ![leds](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190504_180053.jpg)
