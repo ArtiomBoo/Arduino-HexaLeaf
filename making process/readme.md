@@ -1,10 +1,14 @@
 **Step 0:** make a 3d model
+![autocad](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/autocad.JPG)
 
 **Step 1:** 3d printing 
 ![final 3d printet model](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190505_114858.jpg)
 ![final 3d printet model](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190412_152043.jpg)
 
 **Step 2:** cut connectors, put inside of the box and cover with tape 
+![prepare for paiting](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190505_204603.jpg)
+![prepare for paiting](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190505_204858.jpg)
+![prepare for paiting](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190505_205217.jpg)
 
 **Step 3:** Primer/Painting (if your 3d model is red color, than better use grey primer)
 ![primer](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190501_095853.jpg)
