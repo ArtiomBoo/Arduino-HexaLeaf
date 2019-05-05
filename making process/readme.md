@@ -1,6 +1,7 @@
 **Step 0:** make a 3d model
 
 **Step 1:** 3d printing 
+![final 3d printet model](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190505_114858.jpg)
 ![final 3d printet model](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190412_152043.jpg)
 
 **Step 2:** cut connectors, put inside of the box and cover with tape 
