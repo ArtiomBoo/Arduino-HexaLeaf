@@ -1,0 +1,142 @@
+solid hex_top.stl
+  facet normal 0.866068 -0.499925 0
+    outer loop
+    vertex 44.0744 -85.613 0
+    vertex 84.3281 -15.8778 0
+    vertex 44.0744 -85.613 2
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 44.0744 -85.613 0
+    vertex -37.5668 -85.613 0
+    vertex 84.3281 -15.8778 0
+    endloop
+  endfacet
+  facet normal 0 -1 -0
+    outer loop
+    vertex 44.0744 -85.613 0
+    vertex 44.0744 -85.613 2
+    vertex -37.5668 -85.613 0
+    endloop
+  endfacet
+  facet normal 0.866068 -0.499925 0
+    outer loop
+    vertex 44.0744 -85.613 2
+    vertex 84.3281 -15.8778 0
+    vertex 84.3281 -15.8778 2
+    endloop
+  endfacet
+  facet normal 0.866068 0.499926 0
+    outer loop
+    vertex 84.3281 -15.8778 0
+    vertex 44.0744 53.8574 2
+    vertex 84.3281 -15.8778 2
+    endloop
+  endfacet
+  facet normal 0.866068 0.499926 0
+    outer loop
+    vertex 44.0744 53.8574 0
+    vertex 44.0744 53.8574 2
+    vertex 84.3281 -15.8778 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 84.3281 -15.8778 0
+    vertex -77.8204 -15.8778 0
+    vertex 44.0744 53.8574 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 84.3281 -15.8778 0
+    vertex -37.5668 -85.613 0
+    vertex -77.8204 -15.8778 0
+    endloop
+  endfacet
+  facet normal -0 0 1
+    outer loop
+    vertex 84.3281 -15.8778 2
+    vertex -77.8204 -15.8778 2
+    vertex 44.0744 -85.613 2
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+    vertex 44.0744 -85.613 2
+    vertex -77.8204 -15.8778 2
+    vertex -37.5668 -85.613 2
+    endloop
+  endfacet
+  facet normal -0 -1 0
+    outer loop
+    vertex -37.5668 -85.613 0
+    vertex 44.0744 -85.613 2
+    vertex -37.5668 -85.613 2
+    endloop
+  endfacet
+  facet normal -0 0 1
+    outer loop
+    vertex 44.0744 53.8574 2
+    vertex -37.5668 53.8574 2
+    vertex 84.3281 -15.8778 2
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+    vertex 84.3281 -15.8778 2
+    vertex -37.5668 53.8574 2
+    vertex -77.8204 -15.8778 2
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+    vertex 44.0744 53.8574 0
+    vertex -37.5668 53.8574 2
+    vertex 44.0744 53.8574 2
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+    vertex 44.0744 53.8574 0
+    vertex -77.8204 -15.8778 0
+    vertex -37.5668 53.8574 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+    vertex -37.5668 53.8574 0
+    vertex -37.5668 53.8574 2
+    vertex 44.0744 53.8574 0
+    endloop
+  endfacet
+  facet normal -0.866068 0.499926 0
+    outer loop
+    vertex -37.5668 53.8574 0
+    vertex -77.8204 -15.8778 0
+    vertex -37.5668 53.8574 2
+    endloop
+  endfacet
+  facet normal -0.866068 0.499926 0
+    outer loop
+    vertex -37.5668 53.8574 2
+    vertex -77.8204 -15.8778 0
+    vertex -77.8204 -15.8778 2
+    endloop
+  endfacet
+  facet normal -0.866068 -0.499926 0
+    outer loop
+    vertex -77.8204 -15.8778 0
+    vertex -37.5668 -85.613 2
+    vertex -77.8204 -15.8778 2
+    endloop
+  endfacet
+  facet normal -0.866068 -0.499926 -0
+    outer loop
+    vertex -37.5668 -85.613 0
+    vertex -37.5668 -85.613 2
+    vertex -77.8204 -15.8778 0
+    endloop
+  endfacet
+endsolid hex_top.stl
