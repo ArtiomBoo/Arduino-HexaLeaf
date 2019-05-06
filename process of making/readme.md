@@ -5,7 +5,7 @@
 ![final 3d printet model](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190505_114858.jpg)
 ![final 3d printet model](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190412_152043.jpg)
 
-**Step 2:** Preparing for painting.
+**Step 2:** Preparing for painting.  
 cut connectors
 ![prepare for paiting](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190505_204603.jpg)
 put inside in the box
