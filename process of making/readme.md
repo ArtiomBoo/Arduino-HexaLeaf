@@ -20,3 +20,4 @@ and cover with tape
 
 **Step 4:** put LEDs inside (I used 60led/meter strip)
 ![leds](https://github.com/ArtiomBoo/Arduino_Hexagon-LEDs/blob/master/images/20190504_180053.jpg)
+![leds](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190506_071555.jpg)
