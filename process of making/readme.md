@@ -1,4 +1,4 @@
-**Step 0:** make a 3d model
+**Step 0:** create a 3d model
 ![autocad](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/autocad.JPG)
 
 **Step 1:** 3d printing 
