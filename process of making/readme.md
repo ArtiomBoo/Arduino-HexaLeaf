@@ -22,5 +22,6 @@ and cover with tape
 ![leds](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190506_071515.jpg)
 connect led strip
 ![leds](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190506_071555.jpg)
-connect led strip to connectors
-![connectors](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/connectors_small.png)
+connect led strip to connectors  
+then I realised that with 5 pin connectors would be everything much eraser and cleaner.
+![connectors](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/hexa_pinout4_5_small.png)
