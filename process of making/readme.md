@@ -23,4 +23,4 @@ and cover with tape
 connect led strip
 ![leds](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190506_071555.jpg)
 connect led strip to connectors
-![connectors](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/connectors.png)
+![connectors](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/connectors_small.png)
