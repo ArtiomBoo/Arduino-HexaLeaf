@@ -27,3 +27,7 @@ connect led strip to connectors
 then I realised that with 5 pin connectors would be everything much easier and cleaner.  
 with 3/4 pin connector you need to be more careful when you connect one hexagon to another. 
 ![connectors](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/hexa_pinout4_5_small.png)
+![connectors](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190507_121624.jpg)
+
+Checking if everything works 
+![connectors](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190507_200230.jpg)
