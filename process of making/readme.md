@@ -31,6 +31,7 @@ with 3/4 pin connector you need to be more careful when you connect one hexagon 
 
 ## Step 5: checking if everything works
 ![connectors](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190507_200230.jpg)
+![connectors](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/first_test_gif.gif)
 
 ## Step 6: making top
 
