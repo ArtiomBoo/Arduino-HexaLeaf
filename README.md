@@ -35,6 +35,6 @@ with 3/4 pin connector you need to be more careful when you connect one hexagon 
 
 ## Step 6: making top part
 ![top](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190512_122524.jpg)
-I'm pretty sure that it is easier to scoring and snapping plexiglass, but since i wanted to save some space on plexiglass and i used saw. 
+It is easier to scoring and snapping plexiglass, but since i wanted to save some space and I used saw. 
 ![top2](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190516_123024.jpg)
 ![top3](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190516_122524.jpg)
