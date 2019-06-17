@@ -38,3 +38,11 @@ with 3/4 pin connector you need to be more careful when you connect one hexagon 
 It is easier to scoring and snapping plexiglass, but since i wanted to save some space and I used saw. 
 ![top2](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190516_123024.jpg)
 ![top3](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190516_122524.jpg)
+
+## Step 7: setting all together 
+glue top to the main part
+![top](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190617_122513.jpg)
+cut the fiber vinyl
+![top2](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190617_122013.jpg)
+apply it to the top
+![top3](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190617_121613.jpg)
