@@ -46,3 +46,12 @@ cut the fiber vinyl
 ![top2](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190617_122013.jpg)
 apply it to the top
 ![top3](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190617_121613.jpg)
+
+## Step 7: Arduino & Blynk
+Blynk:
+![blynk](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/Screenshot_20190619-161609_Blynk3.jpg)
+Arduino
+![arduino](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/Screenshot_20190619-161633_arduino2.jpg)
+
+## Result
+![result](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190619_104234.jpg)
