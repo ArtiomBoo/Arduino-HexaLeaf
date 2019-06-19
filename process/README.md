@@ -56,3 +56,4 @@ Blynk:
 
 ## Result
 ![result](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190619_161529.jpg)
+![effects](https://github.com/ArtiomBoo/Arduino_HexaLeaf/blob/master/images/20190619_2211372.jpg)
