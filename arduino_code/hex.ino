@@ -9,9 +9,9 @@
 #define NUM_BOXES 8                               /*The number of boxes */
 #define PIN 6                                     /*The pin the LED is connected to */
 #define BRIGHTNESS 50                             /* Default brightness */
-char ssid[] = "ZyXELE5E9F4";                      /* wifi ssid name */
-char pass[] = "B959124795FF";                     /* wifi pass */
-char auth[] = "0034273f9bbe4e91a4072440f7a932ce"; /* blynk auth code */
+char ssid[] = "********";                      /* wifi ssid name */
+char pass[] = "********";                     /* wifi pass */
+char auth[] = "********"; /* blynk auth code */
 //------------------------------------------------------------------------------
 
 #define BLYNK_PRINT Serial
